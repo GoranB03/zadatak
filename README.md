@@ -11,5 +11,8 @@ za git:
 git add .
 git commit -m "Poruka"
 git push
+<<<<<<< HEAD
 
 promjena
+=======
+>>>>>>> 15e004166c7dfdfda835d476bb2e845b6dc878a6
